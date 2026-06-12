@@ -1,4 +1,22 @@
 body{
+
+    margin: 0px;
+    padding: 0px;
+    /*background: #BDBDBD;*/
+}
+.navbar {
+  background-color: #2b2b2b;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: #818181;
+}
+
+.navbar .nav-link:hover {
+  color: #cccccc;
+}
+
     background: #BDBDBD;
 }
 .first-heading {
@@ -17,3 +35,15 @@ body{
     border-radius: 60%;
     object-fit: cover;
 }
+
+.fondo-jumbotron {
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    weith: 100%;
+
+
+}
+
