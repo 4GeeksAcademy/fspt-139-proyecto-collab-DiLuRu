@@ -2,7 +2,6 @@ body{
 
     margin: 0px;
     padding: 0px;
-    /*background: #BDBDBD;*/
 }
 .navbar {
   background-color: #2b2b2b;
@@ -17,8 +16,6 @@ body{
   color: #cccccc;
 }
 
-    background: #BDBDBD;
-}
 .first-heading {
     display: flex;
     justify-content: space-between;
