@@ -17,3 +17,21 @@ body{
     border-radius: 60%;
     object-fit: cover;
 }
+.services{
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    gap: 40px;
+    align-items: center;
+}
+
+.services-img img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.services-text{
+    flex: 1;
+}
